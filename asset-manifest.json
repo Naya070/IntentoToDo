@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IntentoToDo/static/css/main.91261b6f.chunk.css",
+    "main.js": "/IntentoToDo/static/js/main.eda883e3.chunk.js",
+    "main.js.map": "/IntentoToDo/static/js/main.eda883e3.chunk.js.map",
+    "runtime-main.js": "/IntentoToDo/static/js/runtime-main.f6f60bd5.js",
+    "runtime-main.js.map": "/IntentoToDo/static/js/runtime-main.f6f60bd5.js.map",
+    "static/js/2.5624d086.chunk.js": "/IntentoToDo/static/js/2.5624d086.chunk.js",
+    "static/js/2.5624d086.chunk.js.map": "/IntentoToDo/static/js/2.5624d086.chunk.js.map",
+    "index.html": "/IntentoToDo/index.html",
+    "static/css/main.91261b6f.chunk.css.map": "/IntentoToDo/static/css/main.91261b6f.chunk.css.map",
+    "static/js/2.5624d086.chunk.js.LICENSE.txt": "/IntentoToDo/static/js/2.5624d086.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/IntentoToDo/static/media/fondo.3cfb2a71.png",
+    "static/media/TodoGif.css": "/IntentoToDo/static/media/giphy.bfecba79.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6f60bd5.js",
+    "static/js/2.5624d086.chunk.js",
+    "static/css/main.91261b6f.chunk.css",
+    "static/js/main.eda883e3.chunk.js"
+  ]
+}
