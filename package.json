@@ -1,7 +1,7 @@
 {
   "name": "curso-intro-react",
   "version": "0.1.0",
-  "homepage": "https://Naya070.github.io/To-Do-App",
+  "homepage": "https://Naya070.github.io/app-to-do-task",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b final -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
